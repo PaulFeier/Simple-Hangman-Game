@@ -17,3 +17,7 @@ Simple, you enter the 'Hangman' directory. There you will see a file intitulated
 # What happens when you guess wrong letters
 
 ![Game](https://i.imgur.com/SXUZISp.png)
+
+# The scoreboard which is sorted alphabetically
+
+![Game](https://i.imgur.com/0GuEZOc.png)
