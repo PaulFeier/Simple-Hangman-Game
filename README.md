@@ -13,3 +13,7 @@ Simple, you enter the 'Hangman' directory. There you will see a file intitulated
 # The game itself
 
 ![Game](https://i.imgur.com/991CtqA.png)
+
+# What happens when you guess wrong letters
+
+![Game](https://i.imgur.com/SXUZISp.png)
