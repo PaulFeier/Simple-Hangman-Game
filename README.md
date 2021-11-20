@@ -6,4 +6,4 @@ This is my very first programming-based project from university. This has taught
 
 Simple, you enter the 'Hangman' directory. There you will see a file intitulated 'main.cpp'. Go ahead and click that. As for the files, 'cuvinte.txt' is where I store the words that are used for the game that can of course be modified at your leisure, and the 'scor.txt' file is where you save your progress from each game.
 
-![The menu of the game](https://prnt.sc/208sent)
+![The menu of the game](https://i.imgur.com/uFlNIQV.png)
