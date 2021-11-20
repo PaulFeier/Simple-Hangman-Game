@@ -9,3 +9,7 @@ Simple, you enter the 'Hangman' directory. There you will see a file intitulated
 # The menu of the game
 
 ![The menu of the game](https://i.imgur.com/uFlNIQV.png)
+
+# The game itself
+
+![Game](https://i.imgur.com/991CtqA.png)
