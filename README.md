@@ -8,7 +8,7 @@ Simple, you enter the 'Hangman' directory. There you will see a file intitulated
 
 # How can I play?
 
-When you first start the game, you would be presented a menu with multiple choices. Press 1 to play. The game runs infinitely as long as you don't lose all of your 5 lives.
+When you first start the game, you would be presented with a menu with multiple choices. Press 1 to play. The game runs infinitely as long as you don't lose all of your 5 lives.
 After you've lost, you can type your name so that you can see yourself in the leaderboard.
 
 # Can I add custom words?
