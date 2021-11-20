@@ -4,7 +4,16 @@ This is my very first programming-based project from university. This has taught
 
 # But Paul, how can I view your code?
 
-Simple, you enter the 'Hangman' directory. There you will see a file intitulated 'main.cpp'. Go ahead and click that. As for the files, 'cuvinte.txt' is where I store the words that are used for the game that can of course be modified at your leisure, and the 'scor.txt' file is where you save your progress from each game.
+Simple, you enter the 'Hangman' directory. There you will see a file intitulated 'main.cpp'. Go ahead and click that.
+
+# How can I play?
+
+When you first start the game, you would be presented a menu with multiple choices. Press 1 to play. The game runs infinitely as long as you don't lose all of your 5 lives.
+After you've lost, you can type your name so that you can see yourself in the leaderboard.
+
+# Can I add custom words?
+
+Of course. The 'cuvinte.txt' file is where I store the words that are used for the game that can be modified at your leisure, and the 'scor.txt' file is where the game automatically saves your progress from each game.
 
 # The menu of the game
 
