@@ -17,7 +17,7 @@ Of course. The 'cuvinte.txt' file is where I store the words that are used for t
 
 # The menu of the game
 
-![The menu of the game](https://i.imgur.com/uFlNIQV)
+![The menu of the game](https://i.imgur.com/uFlNIQV.png)
 
 # The game itself
 
